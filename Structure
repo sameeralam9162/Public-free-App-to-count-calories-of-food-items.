@@ -1,0 +1,7 @@
+calories_counter_app/
+ ┣ android/
+ ┣ ios/
+ ┣ lib/
+ ┃ ┗ main.dart
+ ┣ pubspec.yaml
+ ┗ README.md
